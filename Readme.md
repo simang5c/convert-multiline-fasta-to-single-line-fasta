@@ -1,4 +1,4 @@
-## This program converts multiple-line fasta to single-line fasta without loading all the sequences in the memory
+## This program converts multi-line fasta to single line fasta without loading all the sequences in the memory
 
 ### To run the program:
 
